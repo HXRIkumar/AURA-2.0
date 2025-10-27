@@ -1,0 +1,16 @@
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore cache files
+__pycache__/
+*.pyc
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore output/generated files
+outputs/
