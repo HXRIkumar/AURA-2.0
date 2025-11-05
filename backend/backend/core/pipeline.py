@@ -13,12 +13,12 @@ from typing import Dict, List, Tuple, Optional, Union, Any
 from datetime import datetime
 
 # Import our modular steps
-from src.steps.missing_values import MissingValueHandler
-from src.steps.encoding import FeatureEncoder
-from src.steps.scaling import FeatureScaler
-from src.steps.model_training import ModelTrainer
-from src.steps.report_generator import ReportGenerator
-from src.llm_helper import LLMHelper
+from backend.core.steps.missing_values import MissingValueHandler
+from backend.core.steps.encoding import FeatureEncoder
+from backend.core.steps.scaling import FeatureScaler
+from backend.core.steps.model_training import ModelTrainer
+from backend.services.report_service import ReportGenerator
+from backend.core.llm.client import LLMHelper
 
 # Configure logging
 logging.basicConfig(
