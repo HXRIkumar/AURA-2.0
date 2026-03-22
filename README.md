@@ -1,3 +1,22 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0C447C,100:185FA5&height=200&section=header&text=AURA%202.0&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Autonomous%20Reasoning%20Agent%20%7C%20Privacy-First%20ML%20Preprocessing&descAlignY=58&descSize=16&descColor=B5D4F4" width="100%"/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=185FA5&center=true&vCenter=true&width=700&lines=Zero-Trust+Privacy+Firewall;LangGraph+Agentic+Controller;88.3%25+Mean+Accuracy+across+7+Datasets;Metadata-Only+LLM+Reasoning)](https://git.io/typing-svg)
+
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic-0C447C?style=for-the-badge&logo=chainlink&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-REST-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-LLM-F55036?style=for-the-badge&logo=lightning&logoColor=white)
+![Scikit](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0C447C&style=for-the-badge)
+
+</div>
+
+
+
 # AURA Preprocessor 2.0
 
 **Dataset-Agnostic Machine Learning Pipeline with LLM Explanations**
